@@ -8,7 +8,9 @@
                 <f:facet name="top"/>
             </af:decorativeBox>
             <af:panelAccordion discloseMany="false" id="pa1">
-                <af:showDetailItem id="pane1" text="Panel Label 1"/>
+                <af:showDetailItem id="pane1" text="Panel Label 1">
+                    <af:icon name="required" id="i1"/>
+                </af:showDetailItem>
             </af:panelAccordion>
         </af:form>
     </af:document>
