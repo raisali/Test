@@ -14,7 +14,7 @@
           <include>*</include>
         </includes>
       </resource>
-      
+          
     </resources>
     <outputDirectory>classes/</outputDirectory>
     <plugins>
